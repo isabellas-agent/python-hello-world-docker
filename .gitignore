@@ -1,0 +1,3 @@
+# Multica runtime internals
+.multica/
+.omp/
